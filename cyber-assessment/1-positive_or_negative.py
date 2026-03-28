@@ -8,4 +8,4 @@ else number < 0:
 else number == 0:
 	print(f"{number} zero")
 else:
-	printf(f"wrong type")
+	print(f"wrong type")
