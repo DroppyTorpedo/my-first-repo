@@ -2,10 +2,10 @@
 import random
 number = random.randint(-10, 10)
 if number > 0:
-	print(f"{number} positive\n")
+	print(f"positive\n")
 else number < 0:
-	print(f"{number} negative\n")
+	print(f"negative\n")
 else number == 0:
-	print(f"{number} zero\n")
+	print(f"zero\n")
 else:
 	printf(f"wrong type\n")
